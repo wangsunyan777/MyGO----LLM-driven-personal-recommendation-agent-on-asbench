@@ -1,0 +1,10 @@
+llm:
+- api_key: sk-c941fd98ff49487f953daaeeb87def77
+  model: qwen-plus-2025-07-28
+  provider: qwen
+  semaphore: 200
+
+env:
+  db:
+    enabled: true
+  home_dir: .agentsociety-benchmark/agentsociety_data
