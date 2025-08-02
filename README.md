@@ -1,8 +1,8 @@
-# MyGO: Multilayer Generated Options
+# MyGO: Multilayer Generator for travel Options
 
-**A recommendation system that categorizes user needs into different types and provides recommendations accordingly. The system identifies three types of user needs when seeking venues: primary needs (core requirements), secondary needs (additional preferences), and potential needs (areas for exploration). Through multi-stage analysis and strategic recommendation ordering, MyGO aims to provide personalized recommendations that satisfy current needs while introducing variety.**
+**A recommendation system that categorizes user needs into different types and provides recommendations accordingly. The system identifies three types of user needs when seeking venues: primary needs (core requirements), secondary needs (additional preferences), and potential needs (areas for exploration). Through multi-stage analysis and strategic recommendation ordering, MyGO aims to provide personalized recommendations that satisfy current needs while introducing variety. Among 5 round of valid tests, the agent managed to achieve a highest score of 79.85 on the agentsociety-BehaviorModeling benchmark, showcasing a one-shot prediction accuracy of 0.6 and 5-shot accuracy of 0.78 in the recommendation task and ranking #3 in AgentSociety Challenge 2025, track 1.**
 
-**一个将用户需求分类为不同类型并据此提供推荐的推荐系统。该系统识别用户在寻找场所时的三种需求类型：主要需求（核心要求）、次要需求（额外偏好）和潜在需求（探索领域）。通过多阶段分析和策略性推荐排序，MyGO旨在提供既满足当前需求又引入多样性的个性化推荐。**
+**一个将用户需求分类为不同类型并据此提供推荐的推荐系统。该系统识别用户在寻找场所时的三种需求类型：主要需求（核心要求）、次要需求（额外偏好）和潜在需求（探索领域）。通过多阶段分析和策略性推荐排序，MyGO旨在提供既满足当前需求又引入多样性的个性化推荐。在AgentSociety-BehaviorModeling测试集上，本智能体实现了79.85的综合得分，尤其是0.6的一选命中率和0.78的前五选项命中率，在2025AgentSociety挑战赛赛道一上排名第三。**
 
 ## 🌟 Core Concept
 
